@@ -2,7 +2,7 @@
 ## Title: |cffb8c0ccHC|r |cffa335eeDanger Map|r
 ## Notes: Local and opt-in community Hardcore danger map.
 ## Author: HC Safety Suite
-## Version: 0.1.0
+## Version: 0.1.1
 ## SavedVariables: HCDangerMapDB
 
 Core.lua
