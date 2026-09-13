@@ -1,7 +1,7 @@
 HCDangerMap = {}
 local DM=HCDangerMap
 
-DM.VERSION="0.1.1"
+DM.VERSION="0.1.2"
 DM.NAME="HC Danger Map"
 DM.COLORED_NAME="|cffb8c0ccHC|r |cffa335eeDanger Map|r"
 DM.MODULE="MAP"
