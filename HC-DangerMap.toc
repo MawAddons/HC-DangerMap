@@ -1,6 +1,6 @@
 ## Interface: 11200
 ## Title: |cffb8c0ccHC|r |cffa335eeDanger Map|r
-## Notes: Local and opt-in community Hardcore danger map.
+## Notes: v0.1.2: a little danger map for your one precious life
 ## Author: HC Safety Suite
 ## Version: 0.1.2
 ## SavedVariables: HCDangerMapDB
