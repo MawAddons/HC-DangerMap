@@ -1,4 +1,6 @@
-# HC Danger Map 0.1.2
+# HC Danger Map 0.1.3
+
+Version 0.1.3 adds one shared, rate-limited MawAddons peer version check. A newer peer version produces one update notice with `https://github.com/MawAddons/HC-DangerMap`.
 
 Lokalt og valgfrit community-synkroniseret farekort til WoW 1.12.1. Det samler doedsannoncer, Danger Journal-events, aktive Rescue Beacons og manuelle markeringer. Identiske observationer afrundes til 5 %-celler og aggregeres; confidence falder med alder. Community-observationer udloeber efter cirka 30 dage, lokale efter cirka 90, og hoejst 400 markeringer gemmes.
 
